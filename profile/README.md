@@ -15,10 +15,10 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 -->
 
-<!--
+
 <!-- PROJECT LOGO -->
 <br />
-
+<!--
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
@@ -26,7 +26,7 @@
 -->
 
 <div align="center">
-  <h3 align="center">SleeplesQnd</h3>
+  <h1 align="center">SleeplesQnd</h1>
 </div>
 
 <!--
@@ -44,7 +44,6 @@
   </p>
 </div>
 
--->
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -56,6 +55,7 @@
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
+-->
 
 
 
